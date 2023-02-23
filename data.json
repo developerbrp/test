@@ -30,23 +30,6 @@
       "$permissions": [],
       "$collectionId": "63ef2d2643c28c370084",
       "$databaseId": "63ef2cd21c97d4eee8b9"
-    },
-    
-      {
-      "title": "aaaadassaaslaslaklsak",
-      "option1": "option1",
-      "option2": "option2",
-      "option3": "ksjdkj",
-      "option4": "dfjkdfj",
-      "correctoption": 4,
-      "isverified": true,
-      "$id": "63ef34d0e0b03b0abd86",
-      "$createdAt": "2023-02-17T08:03:28.920+00:00",
-      "$updatedAt": "2023-02-17T08:03:28.920+00:00",
-      "$permissions": [],
-      "$collectionId": "63ef2d2643c28c370084",
-      "$databaseId": "63ef2cd21c97d4eee8b9"
     }
-    
   ]
 }
